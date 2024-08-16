@@ -9,6 +9,8 @@
 > [1] STERLING, Leon; SHAPIRO, Ehud Y. The art of Prolog: advanced programming techniques. MIT press, 1994.  
 > [2] KOGGE, Peter M. The architecture of symbolic computers. McGraw-Hill, Inc., 1990.   
 
+Full text of the bachelor thesis (in english) can be found at https://dspace.cvut.cz/handle/10467/116064.
+
 # Building
 Standard CMake toolchain is used. For compilation, use:
 ```
